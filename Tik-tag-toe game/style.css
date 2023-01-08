@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+  background-color: gray;
+}
+body {
+  height: 100vh;
+  background: -o-linear-gradient(135deg, pink, white);
+}
+html {
+  font-size: medium;
+}
+.wrapper {
+  position: absolute;
+  transform: translate(-50% -50%);
+ top: 15%;
+ left: 30%;
+
+}
+.container {
+  width: 70vmin;
+  height: 70vmin;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2vmin;
+  align-content: center;
+}
+.btn-option {
+  background: skyblue;
+  height: 22vmin;
+  width: 22vmin;
+  border-radius: 8px;
+  border: none;
+  font-size: 12vmin;
+  color: #d161ff;
+  box-shadow: 0 0 15px rgb(32, 230, 108);
+}
+#restart {
+  font-size: 1.3em;
+  padding: 1em;
+  background-color: #0a0027;
+  color: #fff;
+  border: none;
+  position: relative;
+  margin: 1.5em auto 0 auto;
+  display: block;
+}
+.popup {
+  background: -moz-linear-gradient(1355deg, #8052ec, #d461ff);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  z-index: 2;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1em;
+  font-size: 12vmin;
+}
+#new-game {
+  font-size: 0.6em;
+  padding: 0.5em 1em;
+  background-color: #b10ba8;
+  color: black;
+  border-radius: 0.2em;
+  border: none;
+}
+#message {
+  color: #fff;
+  text-align: center;
+  font-size: 1em;
+}
+.popup.hide {
+  display: none;
+}
