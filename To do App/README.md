@@ -26,4 +26,7 @@ Technology Stack:
 - CSS: Styling language for customizing the appearance of the application.
 - JavaScript: Programming language for adding interactivity and functionality to the application.
 
+  ![To Do list](https://github.com/Cksuraj/Mini-Projects-HTML-CSS-and-JS-/assets/109600774/9accee27-f0ee-4b3b-9193-4a04b0fa384b)
+
+
 This Redmi file provides an overview of the Redmi To-Do Web Application project, focusing on the features of task creation, deletion, and checking. It serves as a starting point for developing the application using HTML, CSS, and JavaScript and can be used as a reference during the development process.
