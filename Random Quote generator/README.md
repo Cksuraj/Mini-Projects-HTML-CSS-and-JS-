@@ -32,6 +32,9 @@ The Random Quote Generator can be easily deployed by hosting the HTML, CSS, and 
 
 ## Conclusion
 
-The Random Quote Generator project utilizes HTML, CSS, and JavaScript to provide users with an interactive and inspiring experience. With its random quote generation, sharing, and saving features, it aims to bring positivity and motivation to users' daily lives.
+The Random Quote Generat
+![Random qoute](https://github.com/Cksuraj/Mini-Projects-HTML-CSS-and-JS-/assets/109600774/6d4e914c-d49b-44bb-9810-d7b3db33e7e8)
+
+or project utilizes HTML, CSS, and JavaScript to provide users with an interactive and inspiring experience. With its random quote generation, sharing, and saving features, it aims to bring positivity and motivation to users' daily lives.
 
 
