@@ -26,3 +26,4 @@ Please ensure that your code adheres to the existing code style and follows best
 
 ## Screenshot
 
+![Screenshot (50)](https://github.com/Cksuraj/Mini-Projects-HTML-CSS-and-JS-/assets/109600774/eb252b3b-ebe1-469e-81a3-dafbbeda8c4c)
